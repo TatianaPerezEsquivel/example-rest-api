@@ -1,14 +1,1 @@
-[
-    {
-        "id":1,
-        "nombre":"Amilcar"
-
-    },
-    {
-        "id":1,
-        "nombre":"Vladimir"
-
-    }
-   
-
-]
+[{"id":1,"nombre":"Amilcar"},{"nombre":"Karla","id":2},{"nombre":"Karla","id":3},{"nombre":"Alvaro","id":4}]
